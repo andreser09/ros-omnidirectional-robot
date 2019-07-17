@@ -2,8 +2,7 @@
 
 *Building a ROS controlled omnidirectional robot with four mechanum wheels*
 
-<p  align="center">
-<img src="/Users/andreser09/Desktop/ros-omnidirectional-robot/Images/carcatbot.jpg" width="300"> </p>
+![carcatbot](https://user-images.githubusercontent.com/35426709/61413741-af51b480-a8c2-11e9-9e75-14ee57180e89.jpg)
 
 This repository contains the files of a little ROS project done for the Mechatronics Lab of the National University of San Luis (Argentina) over an internship.
 
