@@ -3,7 +3,7 @@
 *Building a ROS controlled omnidirectional robot with four mechanum wheels*
 
 <p  align="center">
-<img src="/Users/andreser09/Desktop/ros-omnidirectional-robot/Images/carcatbot.jpg" width="300"> </p>
+<img src="https://user-images.githubusercontent.com/35426709/61414489-79adcb00-a8c4-11e9-80f2-bca2f4627ea2.jpg" width="300"> </p>
 
 This repository contains the files of a little ROS project done for the Mechatronics Lab of the National University of San Luis (Argentina) over an internship.
 
@@ -37,7 +37,7 @@ This project was implemented but remains unfinished. The original idea was to us
 The raspberry pi runs a ros master with two nodes: one for the teleoperation (twist message) with the computer and the other calculates the pwm for each motor, which is recieved in a custom defined message by a node in the arduino.
 
 <p  align="center">
-<img src="/Users/andreser09/Desktop/ros-omnidirectional-robot/Images/ros_nodes.jpg" width="600"> </p>
+<img src="https://user-images.githubusercontent.com/35426709/61414609-c2658400-a8c4-11e9-9a12-db4b07f07e16.jpg" width="600"> </p>
 
 ####Requirements and installation process
 
